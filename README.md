@@ -4,6 +4,7 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
+The objective is to develop a Deep Learning model that can automatically identify and classify Named Entities (such as names of people, locations, organizations, etc.) within a given sentence. By using a Bidirectional LSTM (BiLSTM), the model learns to understand the context of a word based on both the words that come before it and the words that come after it.
 
 
 ## DESIGN STEPS
